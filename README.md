@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Pérez</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Weedical](https://weedical.netlify.app/)
+- 🔭 I’m currently working on [Stämm Biotech](https://www.stamm.bio/)
 
 - 🌱 I’m currently learning **TypeScript**
 
