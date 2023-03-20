@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stämm Biotech](https://www.stamm.bio/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://rodrigoperez.netlify.app](https://rodrigoperez.netlify.app)
 
